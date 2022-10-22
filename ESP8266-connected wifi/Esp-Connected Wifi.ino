@@ -3,7 +3,7 @@
 
 // Replace with your network credentials
 const char* ssid = "ALIRNOFBERKAH"; // SSID dari wifi anda
-const char* password = "aldyft260200"; // SSID dari wifi anda
+const char* password = "aldyft260200"; // Pass dari wifi anda
 
 // Set web server port number to 80
 WiFiServer server(80);
