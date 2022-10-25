@@ -1,3 +1,9 @@
 Telegram Bot With Node Js
 
-Src : https://www.youtube.com/watch?v=IlsygSzikOQ
+- create a Telegram Bot using the @Botfather account
+- use ngrok to develop the bot on a localhost
+- setup a Telegram webhook
+- receive messages from Telegram using a webhook
+- sending messages using the sendMessage API
+=============================================
+Src https://www.youtube.com/watch?v=IlsygSzikOQ
