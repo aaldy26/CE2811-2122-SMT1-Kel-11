@@ -6,5 +6,6 @@ Telegram Bot With Node Js
 - receive messages from Telegram using a webhook
 - sending messages using the sendMessage API
 
-Telegram BOT : @t.me/CE28112122SMT1Kel11bot
 Src https://www.youtube.com/watch?v=IlsygSzikOQ
+
+Telegram BOT : CE28112122SMT1Kel11bot
