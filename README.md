@@ -4,5 +4,5 @@ Hello, Matakuliah Komunikasi Data
 ====================================
 Berikut Kelompok 11 :
 - Aldy Feryanto (2122003);
-- Nanda Aditya Putra (2122016);
+- Nanda Aditya Isnadi (2122016);
 - Angelo Waggles Adriansz (2122009);
